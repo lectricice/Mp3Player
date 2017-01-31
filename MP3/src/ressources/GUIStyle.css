@@ -1,0 +1,56 @@
+
+
+.root{
+	-fx-background-color: #f8f8ff;
+}
+.centerTopPane{
+	-fx-setPadding: 20;
+	-fx-fx-border-color: black;
+}
+
+.title{
+	-fx-font-family: Monospace;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+.VBox{
+	-fx-setMargin: 20;
+}
+
+.songInfo{
+	-fx-setPadding: 0, 0, 0, 20;
+}
+
+.playPane{
+	-fx-setPadding: 20;
+	-fx-setSpacing: 5;
+}
+
+.progressSlider{
+	-fx-setPadding: 10, 0, 0, 0;
+	-fx-setMinSize: 400, 0;
+}
+
+.playList{
+	-fx-control-inner-background: #fffff9;
+}
+
+.skipButton{
+	-fx-background-color: transparent;
+}
+
+.skipBackButton{
+	-fx-background-color: transparent;
+}
+
+.centerPane{
+	-fx-border-color: black;
+}
+
+.BorderPane{
+	-fx-setMargin: 30;
+}
+.playList-view:focused > .virtual-flow > .clipped-container > .sheet > .list-cell:filled{
+    -fx-text-fill: magenta;
+}

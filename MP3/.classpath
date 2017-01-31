@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/eibo_simpleminim.jar"/>
+	<classpathentry kind="lib" path="src/eibo_staticscanner.jar"/>
+	<classpathentry kind="lib" path="src/jl1.0.jar"/>
+	<classpathentry kind="lib" path="src/jsminim.jar"/>
+	<classpathentry kind="lib" path="src/minim.jar"/>
+	<classpathentry kind="lib" path="src/mp3agic.jar"/>
+	<classpathentry kind="lib" path="src/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="src/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="src/tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
